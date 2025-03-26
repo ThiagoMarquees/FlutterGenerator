@@ -1,4 +1,4 @@
-# dioproject
+# FlutterGenerator
 
 A new Flutter project.
 
